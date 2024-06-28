@@ -1,2 +1,6 @@
 good morning
+
 i am practicing git features now
+My name is Nagesh
+i am learning java right now
+
